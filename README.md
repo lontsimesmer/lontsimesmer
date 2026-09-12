@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Entry Level Junior Developer
 ----------------------------
 
-I am a passionate entry level junior developer from Cameroon
+I am a passionate entry-level junior developer from Cameroon
 
 * 🌍  I'm based in Yaoundé City
 * ✉️  You can contact me at [tchoupounathanael@gmail.com](mailto:tchoupounathanael@gmail.com)
-* 🚀  I'm currently working on [Currency App built with react-native](http://github.com/Nsairun/native-currency-app)
-* 🧠  I'm learning React Native, expo
+* 🚀  I'm currently working on [Currency App built with React Native](http://github.com/Nsairun/native-currency-app)
+* 🧠  I'm learning React Native Expo
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I'm a Senior Technician of Agriculture option Agropastoral Entrepreneurship
+* ⚡  I'm a Senior Technician in Agriculture, option Agropastoral Entrepreneurship
 
 ### Skills
 
