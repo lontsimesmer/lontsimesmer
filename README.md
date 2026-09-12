@@ -17,9 +17,9 @@ Full-stack developer and certified GoHighLevel expert with **2 years of professi
 ### 🏆 Specialties
 
 <p align="left">
-  <a href="https://directory.gohighlevel.com/cameroon/yaound/certified-admins/lontsi-tchoupou" target="_blank" rel="noreferrer"><img src="./assets/gohighlevel.png" width="52" height="52" alt="GoHighLevel" title="GoHighLevel (Certified Admin)" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://systeme.io/" target="_blank" rel="noreferrer"><img src="./assets/systemio.png" width="52" height="52" alt="Systeme.io" title="Systeme.io" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.avis-promax.com/" target="_blank" rel="noreferrer"><img src="./assets/avis-promax.png" width="52" height="52" alt="Avis ProMax" title="Avis ProMax" /></a>
+  <a href="https://directory.gohighlevel.com/cameroon/yaound/certified-admins/lontsi-tchoupou" target="_blank" rel="noreferrer"><img src="https://www.image2url.com/r2/default/images/1789245679423-30af8e63-9818-446e-aa17-d824c7cdc35d.png" width="52" height="52" alt="GoHighLevel" title="GoHighLevel (Certified Admin)" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://systeme.io/" target="_blank" rel="noreferrer"><img src="https://www.image2url.com/r2/default/images/1789245608158-e5f1513f-5804-478d-9540-06efe08eeec8.png" width="52" height="52" alt="Systeme.io" title="Systeme.io" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.avis-promax.com/" target="_blank" rel="noreferrer"><img src="https://www.image2url.com/r2/default/images/1789245487909-793ebf79-9375-49e1-86dd-9478b01902a1.png" width="52" height="52" alt="Avis ProMax" title="Avis ProMax" /></a>
 </p>
 
 ### 🛠️ Development Stack
