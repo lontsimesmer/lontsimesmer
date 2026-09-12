@@ -48,11 +48,11 @@ Full-stack developer and certified GoHighLevel expert with **2 years of professi
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/lontsimesmer">
     <img src="https://github-readme-stats.vercel.app/api?username=lontsimesmer&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Nathanaël's GitHub stats" />
   </a>
-</p>
+</p> -->
 
 <p align="left">
   <a href="https://github.com/lontsimesmer">
