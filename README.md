@@ -37,6 +37,19 @@ Full-stack developer and certified GoHighLevel expert with **2 years of professi
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" /></a>
 </p>
 
+### ⚡ Automation, APIs & AI Tools
+
+<p align="left">
+  <a href="https://zapier.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" /></a>&nbsp;
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></a>&nbsp;
+  <a href="https://www.make.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make" /></a>&nbsp;
+  <a href="https://www.brevo.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Brevo-0B996E?style=for-the-badge&logo=brevo&logoColor=white" alt="Brevo" /></a>&nbsp;
+  <a href="https://resend.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" /></a>&nbsp;
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>&nbsp;
+  <a href="https://lovable.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Lovable-FF3366?style=for-the-badge&logoColor=white" alt="Lovable" /></a>&nbsp;
+  <a href="https://v0.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" /></a>
+</p>
+
 ---
 
 ### 🌐 Let's Connect
