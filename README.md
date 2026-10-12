@@ -74,4 +74,4 @@ Full-stack developer and certified GoHighLevel expert with **2 years of professi
 
 ---
 
-<p align="center"><i>Building reliable systems and scalable automations — one project at a time.</i></p>
+<p align="center"><i>Building reliable systems and scalable automations, one project at a time.</i></p>
